@@ -1,0 +1,5 @@
+<svg class="quote" xmlns="http://www.w3.org/2000/svg"><defs><symbol xmlns="http://www.w3.org/2000/svg" id="quote" viewBox="0 0 24 24">
+        <path fill="currentColor" d="m15 17l2-4h-4V6h7v7l-2 4h-3Zm-9 0l2-4H4V6h7v7l-2 4H6Z"></path>
+      </symbol></defs>
+                  <use href="#quote"></use>
+                </svg>
